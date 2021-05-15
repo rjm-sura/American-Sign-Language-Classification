@@ -1,0 +1,2 @@
+# American-Sign-Language-Classification
+The National Institute on Deafness and Other Communications Disorders (NIDCD) indicates that the 200-year-old American Sign Language is a complete, complex language (of which letter gestures are only part) but is the primary language for many deaf North Americans. Therefore, building a system that can recognize sign language will help the deaf and hard-of-hearing better communicate using modern-day technologies.   I am thanking all the mentors and friends to support our work.
